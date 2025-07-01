@@ -5,10 +5,10 @@ var PEOPLE = ['Harsh', 'Sourav', 'Gautam', 'Tirth', 'Rahul']
 /*================================================================*/
 
 const NUM_PPL      = PEOPLE.length;
-// const SPARE_ROWS   = 3;
-// const HEADER_COLOR = '#eeeeee';
-// const LOCKED_BG    = '#f2f2f2';
-// const CUR_FMT      = '$#,##0.00';
+const SPARE_ROWS   = 3;
+const HEADER_COLOR = '#eeeeee';
+const LOCKED_BG    = '#f2f2f2';
+const CUR_FMT      = '$#,##0.00';
 const ST_BG    = '#fdff32';
 const GT_BG    = '#abff32';
 const COL_WIDTH    = 75;               // equal width for every column
